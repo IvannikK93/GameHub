@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/GameHub/static/css/main.fae00440.css",
+    "main.js": "/GameHub/static/js/main.9db006c9.js",
+    "static/media/no-image-placeholder.webp": "/GameHub/static/media/no-image-placeholder.4468b2690a07844609fc.webp",
+    "static/media/logo.webp": "/GameHub/static/media/logo.aafbbd2862055a1da507.webp",
+    "static/media/meh.webp": "/GameHub/static/media/meh.facd017f5ce39bda3191.webp",
+    "static/media/bulls-eye.webp": "/GameHub/static/media/bulls-eye.c2c9c868899620d91a31.webp",
+    "static/media/thumbs-up.webp": "/GameHub/static/media/thumbs-up.25a87c1e02591e9a7b65.webp",
+    "index.html": "/GameHub/index.html",
+    "main.fae00440.css.map": "/GameHub/static/css/main.fae00440.css.map",
+    "main.9db006c9.js.map": "/GameHub/static/js/main.9db006c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae00440.css",
+    "static/js/main.9db006c9.js"
+  ]
+}
