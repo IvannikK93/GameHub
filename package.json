@@ -1,6 +1,7 @@
 {
     "name": "game-hub",
     "private": true,
+    "homepage": "https://IvannikK93.github.io/GameHub",
     "version": "0.0.0",
     "type": "module",
     "scripts": {
